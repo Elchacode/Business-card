@@ -1,0 +1,32 @@
+body{
+    margin: 30px;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.card{
+    width: 480px;
+    margin: 10px auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #1A1A40;
+    color:#FFFFFF;
+    border-bottom: 5px solid #00B3B3;
+
+}
+
+.text{
+    padding: 20px;
+    font-style: italic;
+    border: 3px double #00B3B3;
+    
+}
+.pic{
+    width: 130px;
+   
+    
+    
+}
+.ai{
+    text-align: center;
+}
